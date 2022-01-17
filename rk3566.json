@@ -6,7 +6,7 @@
  "id": "79cf61fed09cb20df890b7695c3de9c1",
  "romtype":"nightly",
  "size": 806463980,
- "url": "https://master.dl.sourceforge.net/project/projectsakura/RMX2001/ProjectSakura-5.2-GAPPS-Core-20210930-1513-RMX2001-OFFICIAL.zip",
+ "url": "https://github.com/LordShenron/ota/releases/download/5.1/RK3566-ota-eng.shen.zip",
  "version": "5.2"
 }
 ]

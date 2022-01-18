@@ -1,11 +1,11 @@
 {
 "response": [
 {
- "datetime": "1642428597",
+ "datetime": "1642494704",
  "filename": "RK3566-ota-eng.shen.zip",
- "id": "79cf61fed09cb20df890b7695c3de9c1",
+ "id": "f343c7c779cd3170cc6915f9aa8288c6",
  "romtype":"nightly",
- "size": 806463980,
+ "size": 806465343,
  "url": "https://github.com/LordShenron/ota/releases/download/5.1/RK3566-ota-eng.shen.zip",
  "version": "5.2"
 }
